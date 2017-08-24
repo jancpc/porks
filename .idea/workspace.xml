@@ -2,70 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa0cb367-c164-4bab-a228-4892e0da8431" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon-1.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoonacfe.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoonacfe.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoonacfe.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoond41d.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/picto-foundry-food.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/picto-foundry-food.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/picto-foundry-food.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bagel.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/beer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/beer_spec.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bread.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bread1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/bread2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/breakfast.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/corn.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/featured.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon01.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon02.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon03.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon04.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon05.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon06.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon07.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/food_icon08.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/kabob.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/limes.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pricing.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/radish.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/reservation-seat.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/seeds.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/slider3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/steak.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/porks.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contact.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/main.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/normalize.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/picto-foundry-food.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style-portfolio.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/icomoonacfe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/picto-foundry-food.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery-1.10.2.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.mixitup.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/reserve.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -83,8 +21,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-2070">
-              <caret line="56" column="83" lean-forward="false" selection-start-line="56" selection-start-column="83" selection-end-line="56" selection-end-column="83" />
+            <state relative-caret-position="599">
+              <caret line="375" column="7" lean-forward="true" selection-start-line="375" selection-start-column="7" selection-end-line="375" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -160,7 +98,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
+              <option name="myItemId" value="js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -258,15 +196,31 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1503598280620</updated>
-      <workItem from="1503598282510" duration="391000" />
+      <workItem from="1503598282510" duration="1419000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1503598764449</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1503598764449</updated>
+    </task>
+    <task id="LOCAL-00002" summary="second">
+      <created>1503599118838</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1503599118838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="391000" />
+    <option name="totallyTimeSpent" value="1419000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="149" y="23" width="1646" height="1013" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21538462" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -274,7 +228,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19978285" sideWeight="0.49784616" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19978285" sideWeight="0.49784616" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -292,6 +246,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <MESSAGE value="second" />
+    <option name="LAST_COMMIT_MESSAGE" value="second" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
@@ -304,8 +263,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2070">
-          <caret line="56" column="83" lean-forward="false" selection-start-line="56" selection-start-column="83" selection-end-line="56" selection-end-column="83" />
+        <state relative-caret-position="599">
+          <caret line="375" column="7" lean-forward="true" selection-start-line="375" selection-start-column="7" selection-end-line="375" selection-end-column="7" />
           <folding />
         </state>
       </provider>
